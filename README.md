@@ -1,2 +1,2 @@
-# car-price-prediction
-Predict car prices using different ML Algorithms and comparing final results in python and R.
+# ML Pipeline Comparison
+This project provides a comprehensive analysis and comparison of the efficiency and effectiveness of R and Python programming languages in constructing machine learning (ML) pipelines. The study evaluates various metrics and performance parameters, such as CPU time, memory usage, model accuracy (MSE, MAE, RMSE), and data visualization capabilities. The repository includes code implementations, datasets, and visualizations. It aims to provide valuable insights for practitioners seeking to choose the appropriate language for their ML projects, specifically focusing on the automotive industry and the used car market.
